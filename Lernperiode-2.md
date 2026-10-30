@@ -2,7 +2,7 @@
 
 **Grobe Idee:**
 
-Ich möchte eine eigene Trainingsdatenbank entwickeln, mit der ich meine Trainingseinheiten und meine Fortschritte im Fitnessstudio dokumentieren kann. Dabei soll der Fokus auf der Datenbank und der Speicherung der Trainingsdaten liegen. Ich möchte keine neue Website erstellen, sondern hauptsächlich mit SQL Server und C# arbeiten.
+Ich möchte eine eigene Trainingsdatenbank entwickeln, mit der ich meine Trainingseinheiten und meine Fortschritte im Gym dokumentieren kann. Dabei soll der Fokus auf der Datenbank und der Speicherung der Trainingsdaten liegen. Ich möchte keine neue Website erstellen, sondern hauptsächlich mit SQL Server und C# arbeiten.
 
 Ich möchte bei jeder Übung dokumentieren können, mit welchem Gewicht ich trainiert habe, wie viele Wiederholungen ich geschafft habe und wie viele Sätze ich absolviert habe. Die Daten sollen dauerhaft in einer SQL-Datenbank gespeichert werden, damit ich meine vergangenen Trainingseinheiten später abrufen und meine Fortschritte vergleichen kann.
 
