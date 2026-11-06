@@ -55,11 +55,11 @@ Ich habe heute wichtige Erfahrungen mit SQL Server und der Verbindung zu einem C
 ### Planung 06.11.2026
 
 #### Arbeitspakete
-- [ ] Anforderungen für die persönliche Trainingsdatenbank festlegen
-- [ ] Überlegen, welche Trainingsdaten gespeichert werden sollen
-- [ ] Tabellen und Beziehungen für die SQL-Datenbank planen
-- [ ] Erste Tabellenstruktur für Übungen, Trainingseinheiten und Sätze entwerfen
-- [ ] Falls noch Zeit vorhanden ist, mit der Umsetzung der Datenbank beginnen
+- [x] Anforderungen für die persönliche Trainingsdatenbank festlegen
+- [x] Überlegen, welche Trainingsdaten gespeichert werden sollen
+- [x] Tabellen und Beziehungen für die SQL-Datenbank planen
+- [x] Erste Tabellenstruktur für Übungen, Trainingseinheiten und Sätze entwerfen
+- [x] Falls noch Zeit vorhanden ist, mit der Umsetzung der Datenbank beginnen
 
 #### Tagesziel
 
@@ -69,4 +69,39 @@ Ich möchte künftig am Mittwoch, sofern genügend Zeit vorhanden ist, an Modul 
 
 ## Lernperiode Reflexion
 
-*Wird am Ende der Lernperiode ergänzt.*
+### Planung 06.11.2026
+
+**Arbeitszeit:** 07:30–11:43 Uhr  
+**Pausen:** 09:15–09:25 Uhr und 10:30–10:50 Uhr
+
+#### Arbeitspakete
+- [x] Anforderungen für die persönliche Trainingsdatenbank festlegen
+- [x] Datenbankstruktur für den Gym Training Tracker planen
+- [x] Tabellen und Beziehungen für SQL Server definieren
+- [x] SQL-Code für die Erstellung der Datenbank und Tabellen erstellen
+- [x] Die sechs Trainingstage (Upper A, Lower A, Upper B, Lower B, Upper C und Lower C) berücksichtigen
+
+#### Tagesbericht
+
+Heute habe ich mit meinem neuen Projekt Gym Training Tracker begonnen. Zuerst habe ich die Anforderungen festgelegt und entschieden, welche Trainingsdaten ich speichern möchte. Anschliessend habe ich das Datenbankdesign geplant und die benötigten Tabellen sowie deren Beziehungen definiert.
+
+Danach habe ich den SQL-Teil vorbereitet und den Code für die Erstellung der Datenbank und Tabellen erstellt. Dabei habe ich berücksichtigt, dass meine sechs verschiedenen Trainingstage mit den jeweiligen Übungen, Gewichten, Wiederholungen und Pausenzeiten dokumentiert werden können.
+
+#### Tagesreflexion
+
+Heute konnte ich die Grundlagen für mein neues Projekt erarbeiten. Besonders wichtig war es, eine sinnvolle Datenbankstruktur zu entwickeln, damit meine Trainingsdaten später übersichtlich gespeichert und ausgewertet werden können. Da ich es auf meinem Handy die Trainingsdaten schon Dokumentiert hatte war das nicht so anspruchsvoll. Als Nächstes möchte ich mit der Programmierung in C# beginnen und die Datenbank mit der Konsolenanwendung verbinden.
+
+### Planung 13.11.2026
+
+#### Arbeitspakete
+- [ ] C#-Konsolenanwendung für den Gym Training Tracker erstellen
+- [ ] Verbindung zwischen C# und SQL Server einrichten
+- [ ] Daten aus der SQL-Datenbank abrufen
+- [ ] Erste Funktionen zum Hinzufügen von Trainingsdaten programmieren
+- [ ] Speicherung und Abruf der Daten testen
+
+#### Tagesziel
+
+Am nächsten Arbeitstag möchte ich mit dem C#-Teil meines Projekts beginnen. Dafür werde ich eine Konsolenanwendung erstellen und diese mit meiner SQL-Datenbank verbinden. Anschliessend möchte ich erste Funktionen entwickeln, mit denen ich Trainingsdaten abrufen und speichern kann.
+
+
