@@ -94,7 +94,7 @@ Heute konnte ich die Grundlagen für mein neues Projekt erarbeiten. Besonders wi
 ### Planung 13.11.2026
 
 #### Arbeitspakete
-- [ ] C#-Konsolenanwendung für den Gym Training Tracker erstellen
+- [x] C#-Konsolenanwendung für den Gym Training Tracker erstellen
 - [ ] Verbindung zwischen C# und SQL Server einrichten
 - [ ] Daten aus der SQL-Datenbank abrufen
 - [ ] Erste Funktionen zum Hinzufügen von Trainingsdaten programmieren
@@ -136,4 +136,5 @@ Heute konnte ich mit der Programmierung in C# beginnen. Ich habe mich vor allem 
 - [ ] Funktionen zum Anzeigen der Trainingstage entwickeln
 - [ ] Weiter an der C#-Konsolenanwendung arbeiten
 
-** Die Arbeit am Modul 320 werde ich ein wenig später in angriff nehmen da ich zuerst mich auf dieses Projekt voll und ganz konzertieren möchte.**
+**Die Arbeit am Modul 320 werde ich ein wenig später in angriff nehmen da ich zuerst mich auf dieses Projekt voll und ganz konzertieren möchte.**
+
