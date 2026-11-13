@@ -105,3 +105,35 @@ Heute konnte ich die Grundlagen für mein neues Projekt erarbeiten. Besonders wi
 Am nächsten Arbeitstag möchte ich mit dem C#-Teil meines Projekts beginnen. Dafür werde ich eine Konsolenanwendung erstellen und diese mit meiner SQL-Datenbank verbinden. Anschliessend möchte ich erste Funktionen entwickeln, mit denen ich Trainingsdaten abrufen und speichern kann.
 
 
+
+### Planung 13.11.2026
+
+**Arbeitszeit:** 07:30–11:40 Uhr  
+**Pausen:** 08:30–08:40 Uhr und 09:15–09:25 Uhr  
+**Gespräch mit Herr Meyer:** 10:30–10:50 Uhr
+
+#### Arbeitspakete
+- [x] Mit der C#-Programmierung für den Gym Training Tracker beginnen
+- [x] Grundstruktur der Konsolenanwendung erstellen
+- [x] Überlegen, wie die Verbindung zwischen C# und SQL Server aufgebaut werden soll
+- [ ] Weitere Funktionen für die Verwaltung der Trainingsdaten planen
+
+#### Tagesbericht
+
+Heute habe ich mit dem C#-Teil meines Projekts Gym Training Tracker begonnen. Dabei habe ich den ersten Code für die Konsolenanwendung geschrieben und mir überlegt, wie ich die SQL-Datenbank später mit C# verbinden und die Trainingsdaten verwalten kann.
+
+Zusätzlich hatte ich von 10:30 bis 10:50 Uhr ein Gespräch mit Herrn Meyer.
+
+#### Tagesreflexion
+
+Heute konnte ich mit der Programmierung in C# beginnen. Ich habe mich vor allem mit der Grundstruktur des Programms beschäftigt. Die Verbindung zwischen C# und SQL Server sowie die spätere Verwaltung der Trainingsdaten muss ich noch genauer planen und umsetzen.
+
+#### Planung für den nächsten Arbeitstag
+
+- [ ] Verbindung zwischen C# und SQL Server einrichten
+- [ ] Datenbankverbindung testen
+- [ ] Erste Daten aus der SQL-Datenbank abrufen
+- [ ] Funktionen zum Anzeigen der Trainingstage entwickeln
+- [ ] Weiter an der C#-Konsolenanwendung arbeiten
+
+** Die Arbeit am Modul 320 werde ich ein wenig später in angriff nehmen da ich zuerst mich auf dieses Projekt voll und ganz konzertieren möchte.**
